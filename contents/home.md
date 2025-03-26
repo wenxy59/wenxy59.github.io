@@ -1,6 +1,6 @@
 For me: I am currently pursuing a Bachelor's degree at the School of Electronic and Information Technology, **Sun Yat-sen University**, in my third year.
 - **<span style="color: green;">ENTP</span>** \| Opera, Triathlon, Languages \\
-\quad Life in Dramaeast: <img src="./static/assets/img/onstage.png"  alt="1"  width=300/> <img src="./static/assets/img/stage.png"  alt="2"  width=300 /> 
+\  Life in Dramaeast: <img src="./static/assets/img/onstage.png"  alt="1"  width=300/> <img src="./static/assets/img/stage.png"  alt="2"  width=300 /> 
 - **EECS, Business and Economic**
 - **https://github.com/Mosfish**
 #### Email  
@@ -13,7 +13,7 @@ For me: I am currently pursuing a Bachelor's degree at the School of Electronic 
      alt="sysu" 
      align='left' width=60/>
 **<span style="color: green;"> \quad Bachelor of Communication Engineering (2022 – 2026)</span>**  \\
-\quad \quad Minoring in Bussiness Administration.
+\  \  Minoring in Bussiness Administration.
 
 #### Research Interests  
 Wireless communication System, Communication Network, Application for Information Theory
