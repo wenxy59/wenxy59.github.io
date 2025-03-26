@@ -7,11 +7,6 @@ I'm currently pursuing a Bachelor's degree in Sun Yat-sen Univ. at the Departmen
 <code>wenxy59@mail2.sysu.edu.cn</code>
 
 #### Education  
-**Imperial College London**, Research Intern (Dec. 2024 – Apr. 2025)  
-• ML methods for EEG denoising in Brain-Computer Interface.
-
-**Tsinghua University**, Research Intern(Feb. 2025 – Mar. 2025)  
-• 5G Core Networks and Distributed Core Networks.
 
 **Sun Yat-sen University**, Bachelor of Communication Engineering (2022 – 2026)  
 Minoring in Bussiness Administration.
