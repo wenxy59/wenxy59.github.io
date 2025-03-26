@@ -1,5 +1,5 @@
 ### <img src="./static/assets/img/ic.png"  alt="IC" align='left' width=30 /> $~~$  <span style="color: green;">**Imperial College London**</span>
-**Dec. 2024 – Apr. 2025 | Research Intern(remote)**</span>  
+**Dec. 2024 – Apr. 2025 | Research Intern(remote)** 
 
 - **ML methods for EEG denoising in Brain-Computer Interface**
 
@@ -11,7 +11,7 @@
 ---
 
 ### <img src="./static/assets/img/thu.png"  alt="thu" align='left' width=30 /> $~~$ <span style="color: green;">**Tsinghua University**</span> 
-**Feb. 2025 – Mar. 2025 | Research Intern**</span>  
+**Feb. 2025 – Mar. 2025 | Research Intern**
 
 - **5G Core Networks and Distributed Core Networks.**
 
