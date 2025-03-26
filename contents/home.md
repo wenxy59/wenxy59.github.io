@@ -8,7 +8,7 @@ For me: I am currently pursuing a Bachelor's degree at the School of Electronic 
 
 #### Education  
 
-<img src="https://bkimg.cdn.bcebos.com/smart/4afbfbedab64034f78f004bd468b6e310a55b319b77d-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto" alt="sysu" align='left' width=60 /> **Sun Yat-sen University**,
+<img src="https://bkimg.cdn.bcebos.com/smart/4afbfbedab64034f78f004bd468b6e310a55b319b77d-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto" align='left' width=60 /> **Sun Yat-sen University**,
 **<span style="color: green;">Bachelor of Communication Engineering (2022 – 2026)</span>**  
 Minoring in Bussiness Administration.
 
