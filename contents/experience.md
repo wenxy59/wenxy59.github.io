@@ -12,7 +12,7 @@
 ---
 
 ### <img src="./static/assets/img/thu.png"  alt="thu" align='left' width=60 /> \quad <span style="color: green;">**Tsinghua University**</span>  
-<span style="color: green;"><img src="./static/assets/img/meinthu.png"  alt="thu" align='Right' width=400 /> \\
+<span style="color: green;"><img src="./static/assets/img/meinthu.png"  alt="thu" align='Right' width=300 /> \\
 \ **Feb. 2025 – Mar. 2025 | Research Intern**</span>  
 
 - **5G Core Networks and Distributed Core Networks.**
