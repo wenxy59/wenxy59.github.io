@@ -10,7 +10,7 @@
 
 ---
 
-### <span style="color: green;">**Tsinghua University**</span>  
+### <img src="E:\githubcode\Mosfish.github.io\contents\thu.png" alt="thu" align='left' width=60 /><span style="color: green;"> **Tsinghua University**</span>  
 <span style="color: green;">**Feb. 2025 – Mar. 2025 | Research Intern**</span>  
 
 - **5G Core Networks and Distributed Core Networks.**
