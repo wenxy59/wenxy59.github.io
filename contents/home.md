@@ -11,7 +11,7 @@ For me: I am currently pursuing a Bachelor's degree at the School of Electronic 
 
 <img src="./static/assets/img/sysu_logo.png" 
      alt="sysu" 
-     align='left' width=60/>
+     align='left' width=40/>
 **<span style="color: green;"> $~~~~$ Bachelor of Communication Engineering (2022 – 2026)</span>**  <br>
 
 #### Research Interests  
