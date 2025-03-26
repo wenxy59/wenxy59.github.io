@@ -10,7 +10,7 @@
 
 ---
 
-### <img src="https://th.bing.com/th/id/OIP.hhEziGgC3j30gTJups4TqgHaHX?w=170&h=180&c=7&r=0&o=5&dpr=2&pid=1.7" alt="thu" align='left' width=60 /> **Tsinghua University**</span>  
+### <span style="color: green;">**Tsinghua University**</span>  
 <span style="color: green;">**Feb. 2025 – Mar. 2025 | Research Intern**</span>  
 
 - **5G Core Networks and Distributed Core Networks.**
