@@ -1,6 +1,6 @@
 [![Mosfish](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Bachelor's degree in Sun Yat-sen Univ. at the Department of Electronic and Information Technology
+I'm currently pursuing a Bachelor's degree in Sun Yat-sen University at the School of Electronic and Information Technology.
 
 #### Email  
 <code>wenxy59@gmail.com</code>  

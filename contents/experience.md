@@ -13,7 +13,7 @@
 ### **Tsinghua University**  
 **Feb. 2025 – Mar. 2025 | Research Intern**  
 
--**5G Core Networks and Distributed Core Networks.**
+- **5G Core Networks and Distributed Core Networks.**
 
 #### Key Contributions:  
 - Deployment and Testing 5GC based on Commercial Base Station.
