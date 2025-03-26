@@ -1,6 +1,6 @@
 For me: I am currently pursuing a Bachelor's degree at the School of Electronic and Information Technology, **Sun Yat-sen University**, in my third year.
 - **<span style="color: green;">ENTP</span>** \| Opera, Triathlon, Languages
-<img src="./static/assets/img/onstage.png" align='Right' alt="1"  width=200/> <img src="./static/assets/img/stage.png"  alt="2" align='Right' width=200 />  <br>
+<img src="./static/assets/img/running.png" align='Right' alt="1"  width=200/><img src="./static/assets/img/onstage.png" align='Right' alt="1"  width=200/> <img src="./static/assets/img/stage.png"  alt="2" align='Right' width=200 />  <br>
 - **EECS, Business and Economic**
 - **https://github.com/Mosfish**
 #### Email  
