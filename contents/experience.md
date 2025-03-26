@@ -1,5 +1,5 @@
-### **Imperial College London**  
-**Dec. 2024 – Apr. 2025 | Research Intern(remote)**  
+### <span style="color: green;">**Imperial College London**</span>
+<span style="color: green;">**Dec. 2024 – Apr. 2025 | Research Intern(remote)**</span>  
 
 - **ML methods for EEG denoising in Brain-Computer Interface**
 
@@ -10,8 +10,8 @@
 
 ---
 
-### **Tsinghua University**  
-**Feb. 2025 – Mar. 2025 | Research Intern**  
+### <span style="color: green;">**Tsinghua University**</span>  
+<span style="color: green;">**Feb. 2025 – Mar. 2025 | Research Intern**</span>  
 
 - **5G Core Networks and Distributed Core Networks.**
 
