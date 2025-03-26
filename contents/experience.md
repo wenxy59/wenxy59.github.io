@@ -1,4 +1,4 @@
-### <span style="color: green;">**Imperial College London**</span>
+### <img src="https://p1.ssl.qhimg.com/dr/270_500_/t01e71ea95590b90884.jpg?size=300x300" alt="IC" align='left' width=60 /> <span style="color: green;">**Imperial College London**</span>
 <span style="color: green;">**Dec. 2024 – Apr. 2025 | Research Intern(remote)**</span>  
 
 - **ML methods for EEG denoising in Brain-Computer Interface**
@@ -10,7 +10,7 @@
 
 ---
 
-### <span style="color: green;">**Tsinghua University**</span>  
+### <img src="https://th.bing.com/th/id/OIP.hhEziGgC3j30gTJups4TqgHaHX?w=170&h=180&c=7&r=0&o=5&dpr=2&pid=1.7" alt="thu" align='left' width=60 /> <span style="color: green;">**Tsinghua University**</span>  
 <span style="color: green;">**Feb. 2025 – Mar. 2025 | Research Intern**</span>  
 
 - **5G Core Networks and Distributed Core Networks.**
