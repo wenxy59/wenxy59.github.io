@@ -1,6 +1,9 @@
-[![Mosfish](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Mosfish](https://img.shields.io/badge/Mosfish-github-blue?logo=github)](https://github.com/Mosfish)
 
-I'm currently pursuing a Bachelor's degree in Sun Yat-sen University at the School of Electronic and Information Technology.
+I'm currently pursuing a Bachelor's degree in Sun Yat-sen University at the School of Electronic and Information Technology at grade 3.
+- ENTP
+- EECS, Business and Economic
+- Opera, Triathlon, Languages
 
 #### Email  
 <code>wenxy59@gmail.com</code>  
