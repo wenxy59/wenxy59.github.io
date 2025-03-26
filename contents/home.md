@@ -1,20 +1,20 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Mosfish](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Bachelor's degree in Sun Yat-sen Univ. at the Department of Electronic and Information Technology
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>wenxy59@gmail.com</code>  
+<code>wenxy59@mail2.sysu.edu.cn</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Imperial College London**, Research Intern (Dec. 2024 – Apr. 2025)  
+• ML methods for EEG denoising in Brain-Computer Interface.
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Tsinghua University**, Research Intern(Feb. 2025 – Mar. 2025)  
+• 5G Core Networks and Distributed Core Networks.
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Sun Yat-sen University**, Bachelor of Communication Engineering (2022 – 2026)  
+Minoring in Bussiness Administration.
 
 #### Research Interests  
-XX, XX, XX, XX.
+Wireless communication System, Communication Network, Application for Information Theory
