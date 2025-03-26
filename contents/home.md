@@ -8,7 +8,7 @@ For me: I am currently pursuing a Bachelor's degree at the School of Electronic 
 
 #### Education  
 
-<img src="./assets/img/sysu_logo.png" 
+<img src="./static/assets/img/sysu_logo.png" 
      alt="sysu" 
      align='left' width=60/>
 **<span style="color: green;">Bachelor of Communication Engineering (2022 – 2026)</span>**  
