@@ -15,4 +15,4 @@ I' m currently pursuing a Bachelor's degree at the School of Electronic and Info
 <span style="color: green;"> $~~$ **Bachelor of Communication Engineering (2022 – 2026)**</span>  <br>
 
 #### Research Interests  
-Wireless communication System, Communication Network, Application for Information Theory
+Wireless communication System, Communication Network, Application of Information Theory

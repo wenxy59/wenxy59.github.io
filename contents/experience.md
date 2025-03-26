@@ -21,3 +21,11 @@
 - Solution Implementation and Technical Documentation.  
 
 ---
+### <img src="./static/assets/img/sysu_logo.png"  alt="sysu" align='left' width=30 /> $~~$ <span style="color: green;">**Sun Yat-sen University**</span> 
+**Nov. 2024 – Present | Research Assistant**
+
+- **Space-Air-Ground Integrated Networks and the Application of Distributed Core Network**
+
+#### Key Contributions:  
+- It remains to be seen :)
+---
