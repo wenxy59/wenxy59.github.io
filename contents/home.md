@@ -5,7 +5,7 @@ Hi, I'm Xiangyu Wen, you can just call me Mosfish. I' m currently pursuing a Bac
 - **EECS, Business, Economic**
 - **https://github.com/Mosfish**
 #### Email  
-<code>wenxy59@mail2.sysu.edu.cn</code>
+<code>wenxy59@mail2.sysu.edu.cn</code> <br>
 <code>wenxy59@gmail.com</code>  
 
 #### Education  <img src="./static/assets/img/desert.png" align='Right' alt="1"  width=200/> 
