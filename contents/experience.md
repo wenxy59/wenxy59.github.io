@@ -1,4 +1,4 @@
-### <img src="./static/assets/img/ic.png"  alt="IC" align='left' width=50 /> $~~$  <span style="color: green;">**Imperial College London**</span>
+### <img src="./static/assets/img/ic.png"  alt="IC" align='left' width=70 /> $~~$  <span style="color: green;">**Imperial College London**</span>
 **Dec. 2024 – Apr. 2025 | Research Intern** 
 #### **Advisor: Prof. Neal Bangerter**
 - **ML methods for EEG denoising in Brain-Computer Interface**
