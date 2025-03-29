@@ -16,4 +16,4 @@ Hi, I'm Xiangyu Wen, you can just call me Mosfish. I' m currently pursuing a Bac
 <span style="color: green;"> $~~$ **Bachelor of Communication Engineering (2022 – 2026 expected)**</span>  <br>
 
 #### Research Interests  
-Wireless Communication Network, 5G&6G Future Communication, Application of Information Theory.
+Wireless Communication Network, Deep Learning, 5G&6G Future Communication, Application of Information Theory.
