@@ -17,3 +17,6 @@ Hi, I'm Xiangyu Wen, you can just call me Mosfish. I' m currently pursuing a Bac
 
 #### Research Interests  
 Wireless Communication Network, Deep Learning, 5G&6G Future Communication, Application of Information Theory.
+- Space-Air-Ground Integrated Network
+- 5G Distributed Core Network
+- Deep Learning Methods in Brain-computer Interface
