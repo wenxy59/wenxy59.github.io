@@ -1,5 +1,10 @@
+### <img src="./static/assets/img/ucl.png"  alt="UCL" align='left' width=50 /> $~~$  <span style="color: green;">**University College London**</span>
+**Mar. 2025 – Present | Research Intren** 
+
+---
+
 ### <img src="./static/assets/img/ic.png"  alt="IC" align='left' width=70 /> $~~$  <span style="color: green;">**Imperial College London**</span>
-**Dec. 2024 – Apr. 2025 | Research Intern** 
+**Dec. 2024 – Apr. 2025 | Research Program** 
 #### **Advisor: Prof. Neal Bangerter**
 
 ---
