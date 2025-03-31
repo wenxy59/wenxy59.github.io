@@ -1,4 +1,4 @@
-### <img src="./static/assets/img/ucl.png"  alt="UCL" align='left' width=50 /> $~~$  <span style="color: green;">**University College London**</span>
+### <img src="./static/assets/img/ucl.png"  alt="UCL" align='left' width=70 /> $~~$  <span style="color: green;">**University College London**</span>
 **Mar. 2025 – Present | Research Intren** 
 
 ---
