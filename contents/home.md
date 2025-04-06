@@ -7,16 +7,17 @@ Hi, I'm Xiangyu Wen, you can just call me Mosfish. I' m currently pursuing a Bac
 - **EECS, Business, Economic**
 - **https://github.com/Mosfish**<br>
 
-<div style="display: flex; justify-content: space-between; align-items: center">
-  <span style="color: green; font-weight: bold;">Email</span>
-  <p>In memory of my first theater experience</p>
-</div>
+<div style="line-height: 1.2;">  
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px">
+    <span style="color: green; font-weight: bold;">Email</span>
+    <p style="margin: 0;">In memory of my first theater experience</p>
+  </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 8px">
-  <code>wenxy59@mail2.sysu.edu.cn &nbsp;| &nbsp;wenxy59@gmail.com</code>
-  <p>(Witness for the Prosecution)</p>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <code style="line-height: 1.3">wenxy59@mail2.sysu.edu.cn &nbsp;| &nbsp;wenxy59@gmail.com</code>
+    <p style="margin: 0;">(Witness for the Prosecution)</p>
+  </div>
 </div>
-
 
 
 #### Education
