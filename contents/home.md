@@ -5,11 +5,9 @@ Hi, I'm Xiangyu Wen, you can just call me Mosfish. I' m currently pursuing a Bac
 <img src="./static/assets/img/stage.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 <img src="./static/assets/img/onstage2.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/><br>
 - **EECS, Business, Economic**
-- **https://github.com/Mosfish**
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <span>Email</span>
-  <p style="margin: 0;">In memory of my first theater performance(Wilfred)</p>
-</div>
+- **https://github.com/Mosfish**<br>
+
+<span style="color: green;">**Email**</span>  <p align="right">In memory of my first theater performance(Wilfred)</p><br>
 <code>wenxy59@mail2.sysu.edu.cn</code><br>
 <code>wenxy59@gmail.com</code>
 
