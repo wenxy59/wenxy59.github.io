@@ -5,7 +5,7 @@
 
 ### <img src="./static/assets/img/ic.png"  alt="IC" align='left' width=100 /> $~~$  <span style="color: green;">**Imperial College London**</span><img src="./static/assets/img/inic.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(14, 34, 218, 0.15) 0 0 15px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 **Dec. 2024 – Apr. 2025 | Research Program** 
-#### **Advisor: Prof. Neal Bangerter **
+#### Advisor: Prof. Neal Bangerter 
 
 ---
 
