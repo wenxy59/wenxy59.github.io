@@ -7,8 +7,8 @@ Hi, I'm Xiangyu Wen, you can just call me Mosfish. I' m currently pursuing a Bac
 - **EECS, Business, Economic**
 - **https://github.com/Mosfish**<br>
 
-<span style="color: green;">**Email**</span>  <p align="right">In memory of my first theater performance(Wilfred)</p><br>
-<code>wenxy59@mail2.sysu.edu.cn</code><br>
+<span style="color: green;">**Email**</span>  <p align="right">In memory of my first theater performance</p><br>
+<code>wenxy59@mail2.sysu.edu.cn</code><p align="right">(Witness for the Prosecution)</p><br>
 <code>wenxy59@gmail.com</code>
 
 
