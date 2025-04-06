@@ -14,7 +14,7 @@
 #### **Tomorrow Space Network Interdisciplinary Innovation Group**
 
 ---
-### <img src="./static/assets/img/sysu_logo.png"  alt="sysu" align='left' width=30 /> $~~$ <span style="color: green;">**Sun Yat-sen University**</span>  <img src="./static/assets/img/sysu.png"  align='Right' style='width:120px;height:90px border-radius:3px; box-shadow:rgba(5, 177, 105, 0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
+### <img src="./static/assets/img/sysu_logo.png"  alt="sysu" align='left' width=30 /> $~~$ <span style="color: green;">**Sun Yat-sen University**</span>  <img src="./static/assets/img/sysu.png"  align='Right' style='width:150px;height:120px border-radius:3px; box-shadow:rgba(5, 177, 105, 0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 **Nov. 2024 – Present | Research Assistant**
 #### **Advisor: Prof. Xiang Chen**
 
