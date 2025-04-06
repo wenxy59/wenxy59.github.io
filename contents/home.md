@@ -6,10 +6,10 @@ Hi, I'm Xiangyu Wen, you can just call me Mosfish. I' m currently pursuing a Bac
 <img src="./static/assets/img/running.png" align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/> <br>
 - **EECS, Business, Economic**
 - **https://github.com/Mosfish**
-#### Email  <img src="./static/assets/img/onstage1.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
+#### Email  
+<code>wenxy59@mail2.sysu.edu.cn</code> <img src="./static/assets/img/onstage1.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 <img src="./static/assets/img/stage.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
-<img src="./static/assets/img/onstage2.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
-<code>wenxy59@mail2.sysu.edu.cn</code> <br>
+<img src="./static/assets/img/onstage2.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/><br>
 <code>wenxy59@gmail.com</code>  
 
 #### Education
