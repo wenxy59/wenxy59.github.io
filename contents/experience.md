@@ -8,21 +8,7 @@
 
 ---
 
-### <img src="./static/assets/img/thu.png"  alt="thu" align='left' width=30 /> $~~$ <span style="color: green;">**Tsinghua University**</span> <img src="./static/assets/img/meinthu.png" align='Right' style='
-    width:150px;
-    height:100px;
-    border-radius:3px; 
-    box-shadow:rgba(221, 20, 240, 0.15) 0 0 8px;
-    background:#FBFBFB;
-    border:1px solid transparent;
-    margin:10px auto;
-    margin-left:15px;
-    padding:5px;
-    background-image:linear-gradient(to right, #6a00a8, #8e2de2);
-    background-origin:border-box;
-    background-clip:padding-box, border-box;
-    border:2px double transparent;
-    border-image:linear-gradient(to right, #6a00a8, #8e2de2) 1;'>
+### <img src="./static/assets/img/thu.png"  alt="thu" align='left' width=30 /> $~~$ <span style="color: green;">**Tsinghua University**</span> <img src="./static/assets/img/meinthu.png"  align='Right' style='width:300px;height:200px border-radius:3px; box-shadow:rgba(221, 20, 240, 0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 **Feb. 2025 – Mar. 2025 | Research Intern**
 #### **Tomorrow Space Network Interdisciplinary Innovation Group**
 
