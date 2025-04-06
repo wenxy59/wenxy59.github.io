@@ -9,17 +9,14 @@ Hi, I'm Xiangyu Wen, you can just call me Mosfish. I' m currently pursuing a Bac
 
 <div style="display: flex; justify-content: space-between; align-items: center">
   <span style="color: green; font-weight: bold;">Email</span>
-  <p>In memory of my theater debut</p>
+  <p>In memory of my first theater experience</p>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 8px">
-  <code>wenxy59@mail2.sysu.edu.cn</code>
+  <code>wenxy59@mail2.sysu.edu.cn &nbsp;| &nbsp;wenxy59@gmail.com</code>
   <p>(Witness for the Prosecution)</p>
 </div>
 
-<div style="margin-top: 8px">
-  <code>wenxy59@gmail.com</code>
-</div>
 
 
 #### Education
