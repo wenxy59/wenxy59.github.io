@@ -7,9 +7,19 @@ Hi, I'm Xiangyu Wen, you can just call me Mosfish. I' m currently pursuing a Bac
 - **EECS, Business, Economic**
 - **https://github.com/Mosfish**<br>
 
-<span style="color: green;">**Email**</span>  <p align="right">In memory of my first theater performance</p><br>
-<code>wenxy59@mail2.sysu.edu.cn</code><p align="right">(Witness for the Prosecution)</p><br>
-<code>wenxy59@gmail.com</code>
+<div style="display: flex; justify-content: space-between; align-items: center">
+  <span style="color: green; font-weight: bold;">Email</span>
+  <p>In memory of my theater debut</p>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 8px">
+  <code>wenxy59@mail2.sysu.edu.cn</code>
+  <p>(Witness for the Prosecution)</p>
+</div>
+
+<div style="margin-top: 8px">
+  <code>wenxy59@gmail.com</code>
+</div>
 
 
 #### Education
