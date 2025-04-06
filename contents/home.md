@@ -1,14 +1,14 @@
 Hi, I'm Xiangyu Wen, you can just call me Mosfish. I' m currently pursuing a Bachelor's degree at **Sun Yat-sen University**, in my **third** year.
 #### Department: <span style="color: green;">**School of Electronic and Information Technology(SEIT)**</span>
 - **<span style="color: green;">ENTP</span>** \| Opera, Triathlon, Languages
-<img src="./static/assets/img/running.png" align='Right' alt="1"  width=150/><img src="./static/assets/img/onstage.png" align='Right' alt="1"  width=150/> <img src="./static/assets/img/stage.png"  alt="2" align='Right' width=150 /> <br>
+<img src="./static/assets/img/running.png" align='Right' style='border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/> <br>
 - **EECS, Business, Economic**
 - **https://github.com/Mosfish**
 #### Email  
 <code>wenxy59@mail2.sysu.edu.cn</code> <br>
 <code>wenxy59@gmail.com</code>  
 
-#### Education  <img src="./static/assets/img/desert.png" align='Right' alt="1"  width=200/> 
+#### Education
 
 <img src="./static/assets/img/sysu_logo.png" 
      alt="sysu" 
