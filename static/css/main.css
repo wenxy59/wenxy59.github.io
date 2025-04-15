@@ -7,7 +7,7 @@
 
 .header {
     border-bottom: solid 2px var(--bs-green);
-    z-index: 1000;
+    z-index: 10000;
 }
 
 .bg-bottom {
