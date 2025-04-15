@@ -3,3 +3,4 @@ In memory of my first theater experience(Witness for the Prosecution)
  <img src="./static/assets/img/onstage1.png"  align='Center' style='width:200px;height:100px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 <img src="./static/assets/img/stage.png"  align='Center' style='width:200px;height:100px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 <img src="./static/assets/img/onstage2.png"  align='Center' style='width:200px;height:100px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/><br>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=31q9BF3ylPNpsV4Pl01FqoyzzL9QvSGaTUFhPWXWEWs&cl=ffffff&w=a"></script>
