@@ -7,7 +7,7 @@ In memory of my first theater experience(Witness for the Prosecution).<br>
 
 ### President
 Aug. 2023 -- Present<br>
-<img src="./static/assets/img/ic.png"  alt="IC" align='left' width=60 /> $~~$  **IST (Information Science \& Technology Developing Center for SYSU Students)** <br>
+<img src="./static/assets/img/istlogo.png"  alt="IC" align='left' width=60 /> $~~$  **IST (Information Science \& Technology Developing Center for SYSU Students)** <br>
  <img src="./static/assets/img/jichuang.png"  style='width:300px;height:200px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>&nbsp;&nbsp;&nbsp; <img src="./static/assets/img/anyka.png"  style='width:300px;height:200px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>&nbsp;&nbsp;&nbsp; <img src="./static/assets/img/tthu.png"  style='width:300px;height:200px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/><br>
 
 ### Sports
