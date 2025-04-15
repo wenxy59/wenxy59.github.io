@@ -1,4 +1,4 @@
-8Hi, I'm Xiangyu Wen. I' m currently pursuing a Bachelor's degree in my 3rd year at **Sun Yat-sen University**. I'm interested in **Wireless Communication Network, Deep Learning, 5G&6G Future Communication, Application of Information Theory.**
+7Hi, I'm Xiangyu Wen. I' m currently pursuing a Bachelor's degree in my 3rd year at **Sun Yat-sen University**. I'm interested in **Wireless Communication Network, Deep Learning, 5G&6G Future Communication, Application of Information Theory.**
 #### Department: <span style="color: green;">**School of Electronic and Information Technology(SEIT)**</span>
 - wenxy59@mail2.sysu.edu.cn &nbsp;|&nbsp;https://github.com/Mosfish
 
