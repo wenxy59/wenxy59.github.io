@@ -7,4 +7,4 @@ Hi, I'm Xiangyu Wen. I' m currently pursuing a Bachelor's degree in my 3rd year 
 <img src="./static/assets/img/sysu_logo.png" 
      alt="sysu" 
      align='left' width=30/>
-**Bachelor of Communication Engineering (2022 – 2026 expected)**
+&nbsp;**Bachelor of Communication Engineering (2022 – 2026 expected)**
