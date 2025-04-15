@@ -1,4 +1,3 @@
-## Research Exerperience
 ### <img src="./static/assets/img/ucl.png"  alt="UCL" align='left' width=80 /> $~~$  <span style="color: green;">**University College London**</span>
 **Mar. 2025 – Present | Research Intren** 
 - Methods for Carrier Frequency Synthesis
@@ -24,16 +23,3 @@
 - 5G Distributed Core Network and Integrated Space-Air-Ground Network
 
 ---
-
-## Project Exerprience
-### SDR-Based ADS-B Receiver with Enhanced Demodulation and Trajectory Mapping
-**Mar.2025 - Apr. 2025**
-- Robust Physical Layer Design for High-Speed Scenarios
-- Database Architecture and Open-Source Visualization
-
----
-
-### Lightweight Anti-fraud Smart Terminal based on Deep Learning
-**Feb. 2024 - Apr. 2024**
-- Multimodal Edge-Cloud Closed-Loop Optimization with Privacy Preservation
-- Edge-Deployed Lightweight NLP for Real-Time Fraud Detection
