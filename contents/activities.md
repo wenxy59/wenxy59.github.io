@@ -11,7 +11,7 @@ Aug. 2023 -- Present<br>
  <img src="./static/assets/img/jichuang.png"  style='width:300px;height:200px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>&nbsp;&nbsp;&nbsp; <img src="./static/assets/img/anyka.png"  style='width:300px;height:200px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>&nbsp;&nbsp;&nbsp; <img src="./static/assets/img/tthu.png"  style='width:300px;height:200px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/><br>
 
 ### Sports
-I dream of conquering the World Marathon Majors someday. When life felt overwhelming, marathons and triathlons became my anchor, teaching me resilience. In 2024, I crossed the finish line of my very first half marathon.🏃‍♂️💪
+I dream of conquering the World Marathon Majors someday. When life felt overwhelming, marathons and triathlons became my anchor, teaching me resilience. In 2024, I crossed the finish line of my very first half marathon.🏃‍♂️💪<br>
  <img src="./static/assets/img/running.png"  style='width:300px;height:200px border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/><br>
 
 ---
