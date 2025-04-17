@@ -1,7 +1,6 @@
 
 ### <img src="./static/assets/img/NCSU.png"  alt="NCSU" align='left' width=70 /> $~~$  <span style="color: green;">**North Carolina State University**</span><img src="./static/assets/img/NC.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(242, 18, 6, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 **Apr. 2025 – Present | Research Intern** 
-#### Advisor: Prof. Kaixiong Zhou 
 - AI-Driven RNA Design Revolution
 
 ---
