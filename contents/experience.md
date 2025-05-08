@@ -26,7 +26,7 @@
 - 5G Distributed Core Network and Integrated Space-Air-Ground Network
 
 ---
-### <img src="./static/assets/img/ic.png"  alt="ic" align='left' width=100 /> $~~$ <span style="color: blue;">**Imperial College London**</span>  <img src="./static/assets/img/inic.png"  align='Right' style='width:150px;height:120px border-radius:3px; box-shadow:rgba(22, 25, 227, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>  <img src="./static/assets/img/ic.png"  align='Right' style='width:150px;height:120px border-radius:3px; box-shadow:rgba(22, 25, 227, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
+### <img src="./static/assets/img/ic.png"  alt="ic" align='left' width=100 /> $~~$ <span style="color: blue;">**Imperial College London**</span>  <img src="./static/assets/img/ic2.png"  align='Right' style='width:150px;height:120px border-radius:3px; box-shadow:rgba(22, 25, 227, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>  <img src="./static/assets/img/inic.png"  align='Right' style='width:150px;height:120px border-radius:3px; box-shadow:rgba(22, 25, 227, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 **Dec. 2024 – Feb. 2025 | Winter Research Program**
 #### **Advisor: Prof. Neal Bangerter**
 - CNN-BiGRU-AT Deeplearning Methods in Brain-machine Interface Denoising
