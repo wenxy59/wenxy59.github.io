@@ -6,7 +6,7 @@
 ---
 
 
-### <img src="./static/assets/img/thu.png"  alt="thu" align='left' width=30 /> $~~$ <span style="color: purple;">**Tsinghua University**</span> <img src="./static/assets/img/inthu.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(221, 20, 240, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/><img src="./static/assets/img/tthu.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(221, 20, 240, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
+### <img src="./static/assets/img/thu.png"  alt="thu" align='left' width=30 /> $~~$ <span style="color: purple;">**Tsinghua University**</span> <img src="./static/assets/img/inthu.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(221, 20, 240, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/><img src="./static/assets/img/meinthu.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(221, 20, 240, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 **Feb. 2025 – Mar. 2025 | Visiting Student Researcher**
 #### **Tomorrow Space Network Interdisciplinary Innovation Group**
 - Free5GC Deployment and Test Based on Commercial Base Station
