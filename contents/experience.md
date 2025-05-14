@@ -6,7 +6,7 @@
 ---
 
 
-### <img src="./static/assets/img/ucl.png"  alt="UCL" align='left' width=80 /> $~~$  <span style="color: black;">**University College London**</span><img src="./static/assets/img/inucl.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(106, 72, 7, 0.04) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/><img src="./static/assets/img/uucl.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(106, 72, 7, 0.04) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
+### <a href="https://www.ucl.ac.uk/electronic-electrical-engineering/" target="_blank"><img src="./static/assets/img/ucl.png"  alt="UCL" align='left' width=80 /> </a> $~~$  <span style="color: black;">**University College London**</span><img src="./static/assets/img/inucl.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(106, 72, 7, 0.04) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/><img src="./static/assets/img/uucl.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(106, 72, 7, 0.04) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 **Apr. 2025 – Present | Research Assistant** 
 #### **Advisor: Prof. Bo Tan**
 - Methods for Carrier Frequency Synthesis
