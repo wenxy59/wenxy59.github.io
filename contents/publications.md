@@ -1,1 +1,1 @@
-**My first paper is under submission, please just leave it alone. It remains to be seen ＞◡ 0**
+C. Qian, **X. Wen\***, K. Zou, and Y. Mao, "Removal of Ocular and Myogenic Artifacts from EEG Signal Using Deep-Learning Method,"
