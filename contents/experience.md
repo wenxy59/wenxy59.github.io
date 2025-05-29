@@ -1,4 +1,4 @@
-### <a href="https://ece.ncsu.edu/" target="_blank"><img src="./static/assets/img/NCSU.png"  alt="NCSU" align='left' width=120 ></a> $~~$  <span style="color: red;">**North Carolina State University**</span><img src="./static/assets/img/NC.png"  align='Right' style='width:150px;height:100px border-radius:3px; box-shadow:rgba(242, 18, 6, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
+### <a href="https://ece.ncsu.edu/" target="_blank"><img src="./static/assets/img/NCSU.png"  alt="NCSU" align='left' width=60 ></a> $~~$  <span style="color: red;">**North Carolina State University**</span><img src="./static/assets/img/NC.png"  align='Right' style='width:300px;height:200px border-radius:3px; box-shadow:rgba(242, 18, 6, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 **Apr. 2025 – Present | Research Intern(remote)** 
 #### **Advisor: Prof. Kaixiong Zhou**
 - AI for Science(Just begin, it remains to be seen)
