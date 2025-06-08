@@ -14,7 +14,7 @@
 ---
 
 
-### <img src="./static/assets/img/thu.png"  alt="thu" align='left' width=30 /> $~~$ <span style="color: purple;">**Tsinghua University**</span> <img src="./static/assets/img/inthu.png"  align='Right' style='width:288px;height:162px border-radius:3px; box-shadow:rgba(221, 20, 240, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
+### <img src="./static/assets/img/thu.png"  alt="thu" align='left' width=30 /> $~~$ <span style="color: purple;">**Tsinghua University**</span> <img src="./static/assets/img/inthu.webp"  align='Right' style='width:288px;height:162px border-radius:3px; box-shadow:rgba(221, 20, 240, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 **Feb. 2025 – Mar. 2025 | Research Intren**<br>
 **Tomorrow Space Network Interdisciplinary Innovation Group**
 - Free5GC Core Network and 5G Communication Systems Based on RISC-V
