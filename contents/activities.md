@@ -19,6 +19,6 @@ I dream of conquering the World Marathon Majors someday. When life felt overwhel
 **Latest update: 2025.5.15 18:03**
 <div style="text-align: center">
   <a href="https://clustrmaps.com/site/1c5j5" title="ClustrMaps">
-    <img src="//www.clustrmaps.com/map_v2.webp?d=31q9BF3ylPNpsV4Pl01FqoyzzL9QvSGaTUFhPWXWEWs&cl=ffffff"/>
+    <img src="//www.clustrmaps.com/map_v2.png?d=31q9BF3ylPNpsV4Pl01FqoyzzL9QvSGaTUFhPWXWEWs&cl=ffffff"/>
   </a>
 </div>
