@@ -1,1 +1,1 @@
-C. Qian*, **X. Wen\***, K. Zou, and Y. Mao, "Removal of Ocular and Myogenic Artifacts from EEG Signal Using Deep-Learning Method,"
+1.Chen, Q.*, **Wen, X.***, Zou, K., Mao, Y. (2025). Removal of Ocular and Myogenic Artifacts from EEG Signal Using Deep-Learning Method. [Accepted], CONF-MLA 2025: 3rd Intl. Conf. on Intelligent Systems and Automation. To appear in Applied and Computational Engineering.  * Co-first authors
