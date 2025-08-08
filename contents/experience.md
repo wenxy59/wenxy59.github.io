@@ -1,3 +1,7 @@
+### <a href="https://ece.ncsu.edu/" target="_blank"><img src="./static/assets/img/NCSU.webp"  alt="NCSU" align='left' width=60 ></a> $~~$  <span style="color: red;">**North Carolina State University**</span><img src="./static/assets/img/NC.webp"  align='Right' style='width:144px;height:81px border-radius:3px; box-shadow:rgba(242, 18, 6, 0.15) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
+**Apr. 2025 – Present | Research Intern(remote)** <br>
+
+---
 
 ### <a href="https://www.ucl.ac.uk/electronic-electrical-engineering/" target="_blank"><img src="./static/assets/img/ucl.webp"  alt="UCL" align='left' width=80 /> </a> $~~$  <span style="color: black;">**University College London**</span><img src="./static/assets/img/inucl.webp"  align='Right' style='width:144px;height:81px border-radius:3px; box-shadow:rgba(106, 72, 7, 0.04) 0 0 40px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;'/>
 **Mar. 2025 – May. 2025 | Research Intern** <br>
