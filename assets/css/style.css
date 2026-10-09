@@ -164,6 +164,40 @@ img { max-width: 100%; display: block; }
 }
 .social-links { display: flex; flex-wrap: wrap; gap: 0.2rem 1.25rem; font-size: var(--text-small); }
 
+/* --- Expandable research interests --- */
+.research-cards {
+  display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start; gap: var(--space-md); margin-top: var(--space-lg);
+}
+.research-card {
+  border: 1px solid var(--color-border); border-radius: var(--radius-lg);
+  background: #fff; transition: border-color var(--transition), box-shadow var(--transition);
+}
+.research-card:hover, .research-card[open] { border-color: rgba(138,28,36,0.4); }
+.research-card:hover { box-shadow: 0 3px 14px rgba(138,28,36,0.05); }
+.research-card summary {
+  display: flex; align-items: center; justify-content: space-between; gap: var(--space-md);
+  min-height: 104px; padding: var(--space-lg); cursor: pointer; list-style: none;
+  font-size: var(--text-body); font-weight: 600; line-height: 1.5;
+  color: var(--color-accent); border-radius: var(--radius-lg);
+}
+.research-card summary::-webkit-details-marker { display: none; }
+.research-card summary:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 4px; }
+.research-card-icon {
+  position: relative; width: 24px; height: 24px; flex-shrink: 0;
+  border-radius: 50%; background: rgba(138,28,36,0.06);
+}
+.research-card-icon::before, .research-card-icon::after {
+  content: ''; position: absolute; background: currentColor;
+  top: 11px; left: 7px; width: 10px; height: 2px;
+}
+.research-card-icon::after { transform: rotate(90deg); transition: transform var(--transition); }
+.research-card[open] .research-card-icon::after { transform: rotate(0deg); }
+.research-card .bio {
+  margin: 0; padding: 0 var(--space-lg) var(--space-lg);
+  font-size: var(--text-small); line-height: 1.8;
+}
+
 /* --- Contact list (icons) --- */
 .contact-list { list-style: none; display: flex; flex-direction: column; gap: 0.5rem; margin-top: var(--space-lg); }
 .contact-list li { font-size: var(--text-small); color: var(--color-text-secondary); display: flex; align-items: baseline; gap: 0.7rem; line-height: 1.5; }
@@ -225,6 +259,24 @@ img { max-width: 100%; display: block; }
   font-size: var(--text-small); color: var(--color-text-muted); font-variant-numeric: tabular-nums;
   flex-shrink: 0; margin-top: 0.2rem; white-space: nowrap;
 }
+
+/* --- Multiple roles at one institution --- */
+.timeline-group { display: block; }
+.timeline-organization { display: flex; align-items: flex-start; gap: var(--space-lg); }
+.experience-roles { list-style: none; margin: var(--space-lg) 0 0 27px; padding-left: 51px; }
+.experience-role { position: relative; padding-bottom: var(--space-lg); }
+.experience-role:last-child { padding-bottom: 0; }
+.experience-role::before {
+  content: ''; position: absolute; left: -55px; top: 8px;
+  width: 8px; height: 8px; border-radius: 50%; background: var(--color-accent);
+}
+.experience-role:not(:last-child)::after {
+  content: ''; position: absolute; left: -52px; top: 22px; bottom: -2px;
+  width: 2px; background: var(--color-border);
+}
+.experience-role-heading { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.25rem var(--space-md); margin-bottom: 0.2rem; }
+.experience-role h4 { font-size: 0.9375rem; font-weight: 600; line-height: 1.5; }
+.experience-role .timeline-date { margin: 0 0 0 auto; }
 
 /* --- Publications --- */
 .pub-list { display: flex; flex-direction: column; gap: var(--space-sm); }
@@ -309,6 +361,15 @@ img { max-width: 100%; display: block; }
   .social-links { justify-content: flex-start; gap: 0.2rem 1rem; }
   .timeline-logo { width: 42px; height: 42px; }
   .timeline-item { gap: var(--space-md); }
+  .timeline-organization { gap: var(--space-md); }
+  .experience-roles { margin-left: 21px; padding-left: 37px; }
+  .experience-role::before { left: -41px; }
+  .experience-role:not(:last-child)::after { left: -38px; }
+  .experience-role-heading { flex-direction: column; gap: 0.15rem; }
+  .experience-role .timeline-date { margin-left: 0; }
+  .research-cards { grid-template-columns: 1fr; }
+  .research-card summary { min-height: 88px; padding: 1.25rem; }
+  .research-card .bio { padding: 0 1.25rem 1.25rem; }
 }
 @media (max-width: 480px) {
   .hero-name { font-size: 2.2rem; }
